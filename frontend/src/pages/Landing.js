@@ -30,9 +30,9 @@ export default function Landing() {
             fontWeight={600}
             fontSize={{ base: '2xl', sm: '4xl', md: '6xl' }}
             lineHeight={'110%'}>
-            SUSSI<br />
+            Saints Service<br />
             <Text as={'span'} color={'gray.800'}>
-            Service Uniting Students for Sustainable Initiatives
+            St. George's Community Service Platform
             </Text>
           </Heading>
           <Text color={'gray.500'}>
