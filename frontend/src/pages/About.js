@@ -118,7 +118,7 @@ export default function About() {
           color={useColorModeValue('gray.700', 'gray.700')}>
           Learn about the team behind{' '}
           <chakra.strong color={useColorModeValue('green.400', 'green.400')}>
-             SUSSI
+             Saints Service
           </chakra.strong>
         </chakra.h1>
         <chakra.h2
